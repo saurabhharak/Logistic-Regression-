@@ -1,2 +1,2 @@
 # Logistic-Regression-
-I developed a logistic regression model in Python that takes various inputs such as age, gender, passenger class, and other factors to determine the likelihood of survival. To understand the columns are significant, I used various graphs to demonstrate data. I choose the column and train the model based on its success or value. The model's accuracy is 77 percent.
+In Python, I created a logistic regression model that considers age, gender, passenger status, and other variables to decide the probability of survival. To help people understand why the columns are relevant, I used different graphs to illustrate results. I choose the column and train the model on its performance or value. The accuracy of the model is 77%.
